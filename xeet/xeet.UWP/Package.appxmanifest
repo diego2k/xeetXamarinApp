@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="f736c883-f105-4d30-a719-4bf328872f5e" Publisher="CN=joaqu" Version="1.0.0.0" />
+  <Identity Name="988xeetSoftwareGesbR.293107CF208F1" Publisher="CN=B9370106-C4DC-4886-9D73-5829073C54B2" Version="1.1.0.0" />
   <mp:PhoneIdentity PhoneProductId="f736c883-f105-4d30-a719-4bf328872f5e" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>FPCL.WIndows</DisplayName>
-    <PublisherDisplayName>joaqu</PublisherDisplayName>
+    <DisplayName>xeet</DisplayName>
+    <PublisherDisplayName>xeet Software GesbR</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
